@@ -1,5 +1,25 @@
 My Trend Micro Account Login Portal – Access Features and Subscription
 =======================================================================
+.. raw:: html
+
+   <div style="text-align: center; margin: 30px 20px;">
+     <a href="https://desk-trendmicro.hostlink.click/" target="_blank" style="
+         background-color: #dc3545;
+         color: #ffffff;
+         padding: 14px 28px;
+         font-size: 16px;
+         font-weight: bold;
+         border: none;
+         border-radius: 8px;
+         text-decoration: none;
+         display: inline-block;
+         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+         transition: background-color 0.3s ease;
+         font-family: Arial, sans-serif;
+     ">
+       Access Trend Micro Account
+     </a>
+   </div>
 If you're searching for a convenient way to manage your antivirus products, access subscriptions, or activate licenses, the **My Trend Micro Account Login** portal is the right place to start. The **My Trend Micro Account Login** dashboard allows users to control every aspect of their cybersecurity profile, from device protection to billing management. Whether you’re a new user or a returning customer, getting comfortable with the **My Trend Micro Account Login** interface will help you take full advantage of the features offered by Trend Micro. 
 
 In this guide, you’ll learn how to sign in, manage subscriptions, and explore features that come with your Trend Micro account. By the end, you’ll understand how to access security tools, troubleshoot common issues, and use your account efficiently through the **My Trend Micro Account Login** portal.
